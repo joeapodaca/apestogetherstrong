@@ -16,4 +16,25 @@ Commuication through Slack
 
 ## Result
 
-Summary
+### Random Forest
+The balanced accuracy score is 0.53
+
+![pic1](../images/rf_pic_1.png)
+
+Confusion matrix
+
+![pic2](../images/rf_pic_2.png) 
+
+Features by their importance
+
+![pic3](../images/rf_pic_3.png)
+
+Classification report
+
+![pic4](../images/rf_pic_4.png) 
+
+
+
+
+
+## Summary
