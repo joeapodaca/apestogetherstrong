@@ -19,19 +19,19 @@ Commuication through Slack
 ### Random Forest
 The balanced accuracy score is 0.53
 
-![pic1](../images/rf_pic_1.png)
+([../images/rf_pic_1.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/rf_pic_1.png))
 
 Confusion matrix
 
-![pic2](../images/rf_pic_2.png) 
+([../images/rf_pic_2.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/rf_pic_2.png))
 
 Features by their importance
 
-![pic3](../images/rf_pic_3.png)
+([../images/rf_pic_3.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/rf_pic_3.png))
 
 Classification report
 
-![pic4](../images/rf_pic_4.png) 
+([../images/rf_pic_4.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/rf_pic_4.png))
 
 
 
