@@ -33,8 +33,12 @@ Classification report
 
 ![../images/rf_pic_4.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/rf_pic_4.png)
 
+"0" : prices down
+"1" : prices up
 
 
 
 
 ## Summary
+
+The performance model got a weak accuracy score finding if the price goes up or down, but the sensitive score was higher, which means that there are higher number of false positives. On the other hand, the features have been sorted by their importance, where "Volume and iexClose are more relevant.  As a recommendation, the model can be improved in accuracy by trying different algotihms or tuning some parameters of the model.
