@@ -34,6 +34,7 @@ Classification report
 ![../images/rf_pic_4.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/rf_pic_4.png)
 
 "0" : prices down
+
 "1" : prices up
 
 
