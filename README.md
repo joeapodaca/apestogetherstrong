@@ -8,6 +8,6 @@ Primarily, we are communicating by Slack and sharing data via Github.  For files
 
 Our initial database is created via pandas.
 
-# atasets
+# Datasets
 
 We used officially published CDC data and a precurated Kaggle dataset of equities prices for Aug-Dec of 2020.
