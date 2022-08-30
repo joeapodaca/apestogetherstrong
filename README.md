@@ -11,3 +11,5 @@ Our initial database is created via pandas.
 # Datasets
 
 We used officially published CDC data and a precurated Kaggle dataset of equities prices for Aug-Dec of 2020.
+
+Cleaned dataset = cleaned_close.zip.
