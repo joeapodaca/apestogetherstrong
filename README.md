@@ -39,3 +39,5 @@ Classification report
 
 ## Summary
 
+Using a different target value(iexClose_hospitalizedIncreaseUp), the random forest model was applied with Smote Oversampling due the fact that class imbalanced was found in the target value. Also, the data was splitted by training and test datasets using stratify to have approximately the same percentage of samples of each target class as the complete set.
+The accuracy score obtained was 0.75 and the  overall f-1 score was 0.81, which is a good result.
