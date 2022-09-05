@@ -12,5 +12,9 @@ Commuication through Slack
 
 ## Results :bowtie:
 
+Using iexClose_hospitalizedIncrease_up resulted in best prediction with an accuracy of 81%
+
+![iexClose_hospitalizedIncrease_up](https://github.com/joeapodaca/Neural_Network_Charity_Analysis/blob/main/target.JPG)
+
 # Summary
 
