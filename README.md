@@ -34,6 +34,9 @@ Classification report
 
 ![../images/pic3_a.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/pic3_a.png)
 
+ROC Curve
+
+![../images/pic4_a.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/pic4_a.png)
 
 
 ## Summary
