@@ -12,6 +12,11 @@ Model: Random_Forest
 Source data; KAGGLE: https://www.kaggle.com/nroll12/us-equity-market-covid19
 "How has the U.S. Stock market been impacted by Covid-19?"
 
+Story and Dashboard
+
+https://public.tableau.com/app/profile/andres2863/viz/Stocks_Covid/Story1?publish=yes
+https://public.tableau.com/app/profile/andres2863/viz/Exchange_Size/Story1?publish=yes
+
 CDC: Covid- National_history.csv
 "Contain daily data on the COVID-19 pandemic for the US and individual states"
 Commuication through Slack
