@@ -4,11 +4,10 @@
 
 ## Overview
 
-The aim of this project is to see if the COVID-19 numbers had an several impact in stock prices. Does the prices goes Up or Goes down due to the increases or decreases of hospitalized?
+The aim of this project is to see if the COVID-19 numbers had an several impact in stock market. Does the stock market goes Up or Goes down due to the increases or decreases of hospitalized?
 
-As a first draft machine learning model, Random Forest has been selected.
 
-Models: Decision trees, Random Forest, Logistic Regression
+Model: Random_Forest
 
 Source data; KAGGLE: https://www.kaggle.com/nroll12/us-equity-market-covid19
 "How has the U.S. Stock market been impacted by Covid-19?"
@@ -39,5 +38,5 @@ Classification report
 
 ## Summary
 
-Using a different target value(iexClose_hospitalizedIncreaseUp), the random forest model was applied with Smote Oversampling due the fact that class imbalanced was found in the target value. Also, the data was splitted by training and test datasets using stratify to have approximately the same percentage of samples of each target class as the complete set.
-The accuracy score obtained was 0.75 and the  overall f-1 score was 0.81, which is a good result.
+Using a different target value(Volume_hospitalizedIncreaseUp), the random forest model was applied with BalancedRandomClassifier due the fact that class imbalanced was found in the target value. Normalization and Standardization was not required because is a distance model. Also, the data was splitted by training and test datasets using stratify using the size of 0.25 as test data and 0.75 as a training data.
+The accuracy score obtained was 0.84 and the  overall f-1 score was 0.82, which is a good result.
