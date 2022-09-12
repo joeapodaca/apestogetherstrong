@@ -23,17 +23,17 @@ Which Sector had the most and least value change during the period of the data?
 ## Result
 
 ### Random Forest
-The balanced accuracy score is 0.75
+The balanced accuracy score is 0.84
 
-![../images/rf_smote.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/rf_smote.png)
+![../images/pic1_a.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/pic1_a.png)
 
 Confusion matrix
 
-![../images/rf_smote_class_report.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/rf_smote_class_report.png)
+![../images/pic2_a.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/pic2_a.png)
 
 Classification report
 
-![../images/rf_smote_cm.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/rf_smote_cm.png)
+![../images/pic3_a.png](https://github.com/joeapodaca/apestogetherstrong/blob/Andres/images/pic3_a.png)
 
 
 
