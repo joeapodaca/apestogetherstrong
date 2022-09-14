@@ -13,17 +13,17 @@ KAGGLE: https://www.kaggle.com/nroll12/us-equity-market-covid19
 CDC: https://covidtracking.com/data/download
 17 columns by 427 rows
 
-Commuication through Slack and Zoom
+Communication through Slack and Zoom
 
 ✓ Link to dashboard (or link to video of dashboard demo)
 
 ✓ Link to Google Slides presentation: https://docs.google.com/presentation/d/1Aeez8vqUSyUlrmdQBTn1njJVhclHrqhf7dOBTT9UA5c/edit?usp=sharing 
 
 ## Results :bowtie:
-We chose Logistic Regression and Random Forrest for the machine leanring models.  15 targets were created and ran on each model.  It was found that there is strong corelation with hospitlized increases in certian sectors in the stock market. The sectors are Finance, Health Tehcnology, Retail and Tehcnology Servies.  
+We chose Logistic Regression and Random Forrest for the machine learning models.  15 targets were created and ran on each model.  It was found that there is strong correlation with hospitalized increases in certain sectors in the stock market. The sectors are Finance, Health Technology, Retail and Technology Services.  
 
 
-Health Tehcnology
+Health Technology
 ![Moderna](https://github.com/joeapodaca/apestogetherstrong/blob/apodacabranch/MRNA_hospitalized_Increase.JPG)
 
 Retail
@@ -32,8 +32,8 @@ Retail
 Finance
 ![Wells Fargo](https://github.com/joeapodaca/apestogetherstrong/blob/apodacabranch/WFC_hospitalized_Increase.JPG)
 
-Tehcnology Servies
+Technology Services
 ![HP](https://github.com/joeapodaca/apestogetherstrong/blob/apodacabranch/HPQ_hospitalized_Increase.JPG)
 
 # Summary
-Random forest had the higher prediction rate of 84% compared to logistic regression at 81%. 
+Random forest had the higher prediction rate of 84% compared to logistic regression at 81%.
