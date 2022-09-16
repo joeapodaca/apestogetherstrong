@@ -1,5 +1,7 @@
 # apestogetherstrong
 
+## Overview
+
 We combined Covid-19 data with stock data between August and December 2020 and by analyzing the data with various machine learning models will there be any correlation between the data sets for predictability.
 Can we predict data within the stock market with Covid-19 data in 2020?
 If so, to what confidence?
