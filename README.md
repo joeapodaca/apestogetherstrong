@@ -6,7 +6,10 @@ Our chief question is: are Closing prices for equities impacted by COVID statist
 
 Primarily, we are communicating by Slack and sharing data via Github.  For files too large to commit, we have been sharing in GoogleDrive.
 
-Our initial database is created via pandas.
+Our initial database is hosted on Amazon's RDS service.
+
+Endpoint:
+apestogetherstrong.cprquacfslhp.us-west-1.rds.amazonaws.com
 
 # Datasets
 
